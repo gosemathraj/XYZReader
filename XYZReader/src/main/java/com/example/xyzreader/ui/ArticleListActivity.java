@@ -58,6 +58,7 @@ public class ArticleListActivity extends AppCompatActivity implements
     private void initializeData() {
 
         setSupportActionBar(mToolbar);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
         refresh();
     }
 
