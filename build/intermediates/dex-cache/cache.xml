@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_778d4d06978afabc364e62ce6eedbf402d88b52e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_457d2b4adaf41fa6ef316e7e62ab722f272c9245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a527cd5d9aa10f1a387cbd1c4c426fff5022a376">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.0.1_cafd6dcdf65897e5c582c851b972c66d4b5ff2a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_fbbcc43a00ee30aa9d0928e87b4c84d476926cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_83c3dbcf61b87f368278a2fd7c74e060b6894b54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ea829e9543dd58bce6fb47759b2776442e6ccade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.0.1_b0f52201930befc9bade24d9b83480a2c66aca4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_5b210f47dbcd61491355989e2e3e951677a19603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_123440033ec68e2fd56ec8dfa16a7fd82fbcc25c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_db1adfe3b4b48efccb8e4c97d98a56d9d072c8b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/development/xyzReader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/volley_becf39494a93574e45455979ba658695647d80dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_a8bdbdc94bf1c19dbc544a53d9b9a59e2512d242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/home/iamsparsh/development/xyzReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.1_39797df18ff7a2d874135aca7205fde531cb8103.jar" />
+    </item>
+
+</items>
