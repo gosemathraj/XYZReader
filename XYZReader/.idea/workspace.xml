@@ -64,14 +64,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_article_detail.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fragment_article_detail.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_article_detail.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
-              <caret line="109" column="47" selection-start-line="109" selection-start-column="47" selection-end-line="109" selection-end-column="47" />
+              <caret line="109" column="45" selection-start-line="109" selection-start-column="45" selection-end-line="109" selection-end-column="45" />
               <folding>
                 <element signature="e#490#513#0" expanded="true" />
                 <element signature="e#1502#1525#0" expanded="true" />
@@ -93,6 +93,16 @@
                 <element signature="e#5743#5764#0" expanded="true" />
                 <element signature="e#5800#5822#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -139,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArticleDetailFragment.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ArticleDetailFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="140" column="19" selection-start-line="140" selection-start-column="19" selection-end-line="140" selection-end-column="19" />
+            <state relative-caret-position="-340">
+              <caret line="154" column="55" selection-start-line="154" selection-start-column="49" selection-end-line="154" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1728,7 +1738,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/xyzreader/ui/ArticleDetail.java" />
         <option value="$PROJECT_DIR$/src/main/res/layout/activity_article_detail.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" />
-        <option value="$PROJECT_DIR$/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
         <option value="$PROJECT_DIR$/src/main/res/layout/activity_article_list.xml" />
         <option value="$PROJECT_DIR$/src/main/res/values/styles.xml" />
@@ -1736,6 +1745,7 @@
         <option value="$PROJECT_DIR$/src/main/res/layout/list_item_article.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" />
         <option value="$PROJECT_DIR$/src/main/res/layout/fragment_article_detail.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/values/colors.xml" />
       </list>
     </option>
   </component>
@@ -2619,14 +2629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -2711,16 +2713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="140" column="19" selection-start-line="140" selection-start-column="19" selection-end-line="140" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_article_list.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2747,7 +2739,7 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
-          <caret line="109" column="47" selection-start-line="109" selection-start-column="47" selection-end-line="109" selection-end-column="47" />
+          <caret line="109" column="45" selection-start-line="109" selection-start-column="45" selection-end-line="109" selection-end-column="45" />
           <folding>
             <element signature="e#490#513#0" expanded="true" />
             <element signature="e#1502#1525#0" expanded="true" />
@@ -2768,6 +2760,24 @@
             <element signature="e#5696#5718#0" expanded="true" />
             <element signature="e#5743#5764#0" expanded="true" />
             <element signature="e#5800#5822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="154" column="55" selection-start-line="154" selection-start-column="49" selection-end-line="154" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
